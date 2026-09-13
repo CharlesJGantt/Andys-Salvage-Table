@@ -9,10 +9,10 @@
 Andy's Salvage Table is a workstation that reverses crafting. Put a crafted item in, and it shows you exactly what you will get back before you commit to anything — then hands it over. The materials come from Minecraft's own crafting recipes, so a Chest returns planks, a Diamond Pickaxe returns diamonds and a stick, and sixteen Glass Panes return the six Glass they actually cost. It never returns more than the recipe took, damaged gear returns less, and the whole thing runs as a farm once you are ready for that.
 
 <p align="center">
-  <img src="images/salvage-table-powered-with-repeater.jpg" alt="A Salvage Table driven by a repeater, with input and output chests around it" width="700">
+  <img src="images/stack-of-observers-salvage-showing-percentage.jpg" alt="A stack of 64 Observers previewed in the Salvage Table, returning 288 Cobblestone, 48 Quartz and 96 Redstone at 75% recovery" width="600">
 </p>
 
-_Items in through any side, recovered materials out through the bottom, and redstone to switch it off._
+_Every salvage is priced before you commit: the exact stacks, the exact counts, and the rate they came from._
 
 **Current release:** 0.7.15
 **Download:** [Andys_Salvage_Table_0.7.15.mcaddon](Andys_Salvage_Table_0.7.15.mcaddon)
