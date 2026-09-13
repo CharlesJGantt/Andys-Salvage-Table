@@ -15,7 +15,8 @@ Andy's Salvage Table is a workstation that reverses crafting. Put a crafted item
 _Every salvage is priced before you commit: the exact stacks, the exact counts, and the rate they came from._
 
 **Current release:** 0.7.15
-**Download:** [Andys_Salvage_Table_0.7.15.mcaddon](Andys_Salvage_Table_0.7.15.mcaddon)
+**Download:** [Andy's Salvage Table on CurseForge](https://www.curseforge.com/minecraft-bedrock/addons/andys-salvage-table) — the official project page
+**Direct file:** [Andys_Salvage_Table_0.7.15.mcaddon](Andys_Salvage_Table_0.7.15.mcaddon)
 **SHA-256:** `4B370B597BEFA0C6B7C9CCE9BD3EF4E73DB3492ED32C94BAC94C2DD12D4711DC`
 
 Minecraft Bedrock **1.26.30 or newer** is required. Both the Behavior Pack and the Resource Pack must be active. No cheats, commands, experimental gameplay toggles, or additional dependencies are required. Standard graphics and Vibrant Visuals are supported.
@@ -88,6 +89,8 @@ Import and activate the add-on on Windows or mobile, upload the prepared world t
 - Comparators cannot read a Salvage Table.
 
 See [Compatibility and Troubleshooting](https://github.com/CharlesJGantt/Andys-Salvage-Table/wiki/Compatibility-and-Troubleshooting) for detailed diagnostics.
+
+Found a problem, or want to leave a rating? The [CurseForge project page](https://www.curseforge.com/minecraft-bedrock/addons/andys-salvage-table) is the best place for both.
 
 <!-- ================================================================================
 EVERYTHING BELOW THIS LINE: DO NOT EDIT except <PRODUCT> and <YEAR>.
