@@ -25,4 +25,4 @@ A Salvage Table reverses crafting. Put a crafted item in, see exactly what you w
 - Power the table with a repeater or through a solid block. Redstone dust led straight in also powers the hopper beneath it, and a powered hopper stops moving items.
 - Items from other add-ons are salvageable only if that add-on adds support for it.
 
-**SHA-256:** `67D433F12CF1DBCEB4484AC3B69EB8C2D09C47FF13C61C3CF8035A773C2066F8`
+**SHA-256:** `4B370B597BEFA0C6B7C9CCE9BD3EF4E73DB3492ED32C94BAC94C2DD12D4711DC`
