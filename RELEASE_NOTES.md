@@ -1,8 +1,8 @@
-# Andy's Salvage Table 0.7.16
+# Andy's Salvage Table 0.7.17
 
-Maintenance release. **No gameplay, balance, or behavior changes** — the add-on works exactly as 0.7.15 did, and placed tables keep every setting across the update.
+Maintenance release. **Fixes the crafting recipe**, which never produced a Salvage Table: the pattern spelled the Stonecutter `minecraft:stonecutter`, but Bedrock's actual id for it is `minecraft:stonecutter_block`. All nine slots filled correctly and the output stayed empty. The block could only be obtained from the creative menu.
 
-- The storefront README now carries the standard AndyTheMakerMC support artwork.
+No other change — no balance, no behavior, no settings. Placed tables keep everything.
 
 Everything below describes the add-on as a whole.
 
@@ -29,4 +29,4 @@ A Salvage Table reverses crafting. Put a crafted item in, see exactly what you w
 - Power the table with a repeater or through a solid block. Redstone dust led straight in also powers the hopper beneath it, and a powered hopper stops moving items.
 - Items from other add-ons are salvageable only if that add-on adds support for it.
 
-**SHA-256:** `C221E7640492201CED05EC2B4371A315234E42DAE37FA8328ADCEC3B2166DCFF`
+**SHA-256:** `2D11768980E6701E73206CAC7EE02FF3CFBD9C8205FA1550E0C6FD76C7CE0DF1`

@@ -14,10 +14,10 @@ Andy's Salvage Table is a workstation that reverses crafting. Put a crafted item
 
 _Every salvage is priced before you commit: the exact stacks, the exact counts, and the rate they came from._
 
-**Current release:** 0.7.16
+**Current release:** 0.7.17
 **Download:** [Andy's Salvage Table on CurseForge](https://www.curseforge.com/minecraft-bedrock/addons/andys-salvage-table) — the official project page
-**Direct file:** [Andys_Salvage_Table_0.7.16.mcaddon](Andys_Salvage_Table_0.7.16.mcaddon)
-**SHA-256:** `C221E7640492201CED05EC2B4371A315234E42DAE37FA8328ADCEC3B2166DCFF`
+**Direct file:** [Andys_Salvage_Table_0.7.17.mcaddon](Andys_Salvage_Table_0.7.17.mcaddon)
+**SHA-256:** `2D11768980E6701E73206CAC7EE02FF3CFBD9C8205FA1550E0C6FD76C7CE0DF1`
 
 Minecraft Bedrock **1.26.30 or newer** is required. Both the Behavior Pack and the Resource Pack must be active. No cheats, commands, experimental gameplay toggles, or additional dependencies are required. Standard graphics and Vibrant Visuals are supported.
 
@@ -46,11 +46,15 @@ The complete player, user, and admin documentation is in the [GitHub Wiki](https
 | Iron Ingot | Stonecutter | Crafting Table |
 | Blackstone | Blackstone | Blackstone |
 
+<p align="center">
+  <img src="images/crafting-recipe.jpg" alt="The Salvage Table crafting recipe in a Crafting Table" width="600">
+</p>
+
 ## Installation
 
 ### Windows, Android, iPhone, and iPad
 
-1. Download [Andys_Salvage_Table_0.7.16.mcaddon](Andys_Salvage_Table_0.7.16.mcaddon).
+1. Download [Andys_Salvage_Table_0.7.17.mcaddon](Andys_Salvage_Table_0.7.17.mcaddon).
 2. Open it with Minecraft Bedrock and wait for both packs to import.
 3. Create or edit a world.
 4. Activate **Andy's Salvage Table [BP]** under Behavior Packs.
