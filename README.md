@@ -14,10 +14,10 @@ Andy's Salvage Table is a workstation that reverses crafting. Put a crafted item
 
 _Every salvage is priced before you commit: the exact stacks, the exact counts, and the rate they came from._
 
-**Current release:** 0.7.15
+**Current release:** 0.7.16
 **Download:** [Andy's Salvage Table on CurseForge](https://www.curseforge.com/minecraft-bedrock/addons/andys-salvage-table) — the official project page
-**Direct file:** [Andys_Salvage_Table_0.7.15.mcaddon](Andys_Salvage_Table_0.7.15.mcaddon)
-**SHA-256:** `4B370B597BEFA0C6B7C9CCE9BD3EF4E73DB3492ED32C94BAC94C2DD12D4711DC`
+**Direct file:** [Andys_Salvage_Table_0.7.16.mcaddon](Andys_Salvage_Table_0.7.16.mcaddon)
+**SHA-256:** `C221E7640492201CED05EC2B4371A315234E42DAE37FA8328ADCEC3B2166DCFF`
 
 Minecraft Bedrock **1.26.30 or newer** is required. Both the Behavior Pack and the Resource Pack must be active. No cheats, commands, experimental gameplay toggles, or additional dependencies are required. Standard graphics and Vibrant Visuals are supported.
 
@@ -50,7 +50,7 @@ The complete player, user, and admin documentation is in the [GitHub Wiki](https
 
 ### Windows, Android, iPhone, and iPad
 
-1. Download [Andys_Salvage_Table_0.7.15.mcaddon](Andys_Salvage_Table_0.7.15.mcaddon).
+1. Download [Andys_Salvage_Table_0.7.16.mcaddon](Andys_Salvage_Table_0.7.16.mcaddon).
 2. Open it with Minecraft Bedrock and wait for both packs to import.
 3. Create or edit a world.
 4. Activate **Andy's Salvage Table [BP]** under Behavior Packs.
@@ -99,6 +99,8 @@ Byte-identical to the closing block in curseforge-description.template.md.
 
 ## Support AndyTheMakerMC
 
+![Support Future Addon Development CTA](https://github.com/user-attachments/assets/dc0ebd24-560a-47b9-b13f-d38d46e24d5f)
+
 All of my Minecraft Bedrock add-ons are free to download and use. If one of my add-ons has improved your world, saved you time, or added something you wish Minecraft already had, consider supporting continued development. Your support helps fund the time and tools required to maintain existing add-ons, test new Minecraft Bedrock releases, fix bugs, create documentation and artwork, and continue building new add-ons.
 
 **Help me keep these add-ons free, updated, and actively maintained** — support through [Buy Me a Coffee](https://www.buymeacoffee.com/AndyTheMakerMC) or a direct donation through [Stripe](https://buy.stripe.com/4gM4gz0qu0xwgxw0IfcMM00). Prefer another way? [Ko-fi](https://ko-fi.com/andythemaker) · [Patreon](https://www.patreon.com/cw/AndyTheMakerMC) · [GitHub Sponsors](https://github.com/sponsors/CharlesJGantt). Every bit of support is appreciated, but it is never required.
@@ -107,9 +109,13 @@ Enjoying the add-on? Ratings, favorites, recommendations, and kind comments also
 
 ### Explore more of Andy's add-ons
 
+![Visit AndyTheMakerMC.XYZ Website - Screenshot](https://github.com/user-attachments/assets/f7490ad7-6e05-4301-afe5-fcab49c9be9c)
+
 Visit [AndyTheMakerMC.xyz](https://andythemakermc.xyz/) for more Minecraft Bedrock add-ons, `.mcstructure` downloads, HoloPrint files, world lore, tutorials, guides, videos, and other creations.
 
 ### Follow AndyTheMakerMC
+
+![Follow Andy's Socials CTA](https://github.com/user-attachments/assets/2a67b803-3260-4aad-bf26-61a937aa9af4)
 
 Follow **@AndyTheMakerMC** for new add-on releases, development updates, tutorials, showcases, streams, and more Minecraft adventures, and join the community on Discord and Facebook:
 

@@ -1,6 +1,10 @@
-# Andy's Salvage Table 0.7.15
+# Andy's Salvage Table 0.7.16
 
-First public release.
+Maintenance release. **No gameplay, balance, or behavior changes** — the add-on works exactly as 0.7.15 did, and placed tables keep every setting across the update.
+
+- The storefront README now carries the standard AndyTheMakerMC support artwork.
+
+Everything below describes the add-on as a whole.
 
 ## What it does
 
@@ -25,4 +29,4 @@ A Salvage Table reverses crafting. Put a crafted item in, see exactly what you w
 - Power the table with a repeater or through a solid block. Redstone dust led straight in also powers the hopper beneath it, and a powered hopper stops moving items.
 - Items from other add-ons are salvageable only if that add-on adds support for it.
 
-**SHA-256:** `4B370B597BEFA0C6B7C9CCE9BD3EF4E73DB3492ED32C94BAC94C2DD12D4711DC`
+**SHA-256:** `C221E7640492201CED05EC2B4371A315234E42DAE37FA8328ADCEC3B2166DCFF`
